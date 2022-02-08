@@ -33,5 +33,6 @@ public class AlfredTest {
         System.out.println(alfredTest);
         System.out.println(notRelevantTest);
         System.out.println(testangryAlfred);
+        //test comment for github
     }
 }
